@@ -1,1 +1,3 @@
 # Image-Classification
+
+In this project, I developed several convolutional neural networks (CNNs) to classify images from the Rock-Paper-Scissors dataset. The dataset contains images of hands showing rock, paper, and scissors gestures. I began with a simple dense neural network to establish a baseline, followed by more advanced CNN architectures to improve performance. The models were trained on normalized images, and I employed techniques such as pooling, dropout, and hyperparameter tuning to enhance accuracy. The best model achieved significant accuracy and demonstrated robust performance on test data. This project showcases my skills in data preprocessing, model construction, training, evaluation, and hyperparameter optimization using Keras Tuner.
